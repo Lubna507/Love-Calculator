@@ -1,0 +1,17 @@
+body{
+    background-image: url('https://i.pinimg.com/736x/d4/61/0c/d4610c523b5e11818eacdea29c7493a8--pink-christmas-christmas-trees.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    
+}
+header{
+    width: 100%;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
